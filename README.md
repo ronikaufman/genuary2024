@@ -4,7 +4,7 @@
 
 For this 2024 edition, I gave myself extra constraints: 
 - square format, the result is a still image (not an animation);
-- draw with only black, white or shades or gray;
+- draw with only black, white or shades of gray;
 - the background is one plain color, evolving every day
 
 ### JAN. 1
