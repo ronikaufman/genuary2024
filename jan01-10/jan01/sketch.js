@@ -11,6 +11,7 @@ let particles = [];
 
 function setup() {
     createCanvas(500, 500);
+    pixelDensity(3);
 
     gravity = createVector(0, 0.1);
 
@@ -26,7 +27,7 @@ function setup() {
             }
         }
         if (rMax < 20) continue;
-        if (rMax > 100) rMax = 80;
+        if (rMax > 100) rMax = 100;
         circles.push({
             x: x0,
             y: y0,
@@ -37,7 +38,7 @@ function setup() {
         for (let i = 0; i < n; i++) {
             let theta = TAU*i/n + random(TAU/(2*n));
             let sp = random(2, 5);
-            let life = sqrt(random())*rMax/3;
+            let life = sqrt(random())*rMax*0.3;
             particles.push(new Particle(x0, y0, theta, sp, life, rMax));
         }
     }    
@@ -49,7 +50,7 @@ function draw() {
     noFill();
     stroke(0, 200);
     for (let p of particles) {    
-        strokeWeight(sqrt(p.rMax)/8);
+        strokeWeight();
         p.drawHistory();
     }
 
@@ -75,8 +76,8 @@ function Particle(x0, y0, theta, sp, life, rMax) {
     this.vel = p5.Vector.fromAngle(theta, sp);
     this.acc = createVector(0, 0);
     this.life = life;
-    this.rMax = rMax;
-    this.diam = random(sqrt(rMax)/5, sqrt(rMax)/3);
+    this.diam = sqrt(rMax)/random(2.5, 5);
+    this.sw = sqrt(rMax)/random(7, 8);
     this.posHistory = [createVector(x0, y0)];
 
     this.update = function() {
@@ -98,6 +99,7 @@ function Particle(x0, y0, theta, sp, life, rMax) {
     }
 
     this.drawHistory = function() {
+        strokeWeight(this.sw);
         beginShape();
         for (let po of this.posHistory) {
             vertex(po.x, po.y);
