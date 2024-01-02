@@ -65,10 +65,6 @@ function draw() {
     }
 }
 
-function distSquared(x1, y1, x2, y2) {
-    return sq(x1-x2)+sq(y1-y2);
-}
-
 function Particle(x0, y0, theta, sp, life, rMax) {
     this.x0 = x0;
     this.y0 = y0;

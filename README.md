@@ -11,3 +11,8 @@ For this 2024 edition, I gave myself extra constraints:
 > Particles, lots of them.
 
 <img src="./jan01-10/jan01/jan01_01.png" width="40%"/> <img src="./jan01-10/jan01/jan01_02.png" width="40%"/> <img src="./jan01-10/jan01/jan01_03.png" width="40%"/> <img src="./jan01-10/jan01/jan01_04.png" width="40%"/>
+
+### JAN. 2
+> No palettes.
+
+<img src="./jan01-10/jan02/jan02_01.png" width="40%"/> <img src="./jan01-10/jan02/jan02_02.png" width="40%"/> <img src="./jan01-10/jan02/jan02_03.png" width="40%"/> <img src="./jan01-10/jan02/jan02_04.png" width="40%"/>
