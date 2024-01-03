@@ -5,7 +5,7 @@
 For this 2024 edition, I gave myself extra constraints: 
 - square format, the result is a still image (not an animation);
 - draw with only black, white or shades of gray;
-- the background is one plain color, evolving every day
+- the background is one plain color, evolving every day.
 
 ### JAN. 1
 > Particles, lots of them.
@@ -16,3 +16,8 @@ For this 2024 edition, I gave myself extra constraints:
 > No palettes.
 
 <img src="./jan01-10/jan02/jan02_01.png" width="40%"/> <img src="./jan01-10/jan02/jan02_02.png" width="40%"/> <img src="./jan01-10/jan02/jan02_03.png" width="40%"/> <img src="./jan01-10/jan02/jan02_04.png" width="40%"/>
+
+### JAN. 3
+> Droste effect.
+
+<img src="./jan01-10/jan03/jan03_01.png" width="40%"/> <img src="./jan01-10/jan03/jan03_02.png" width="40%"/> <img src="./jan01-10/jan03/jan03_03.png" width="40%"/> <img src="./jan01-10/jan03/jan03_04.png" width="40%"/>
