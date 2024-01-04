@@ -16,7 +16,6 @@ function setup() {
 
     findPaths([0, 0], [[0, 0]]);
     shuffle(paths, true);
-    console.log(paths);
 }
 
 function draw() {
