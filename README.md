@@ -31,7 +31,7 @@ For this 2024 edition, I gave myself extra constraints:
 
 <img src="./week1/jan04/jan04_01.png" width="40%"/> <img src="./week1/jan04/jan04_02.png" width="40%"/> <img src="./week1/jan04/jan04_03.png" width="40%"/> <img src="./week1/jan04/jan04_04.png" width="40%"/>
 
-### JAN. 4
+### JAN. 5
 > In the style of Vera Molnár (1924-2023).
 
 <img src="./week1/jan05/jan05_01.png" width="40%"/> <img src="./week1/jan05/jan05_02.png" width="40%"/> <img src="./week1/jan05/jan05_03.png" width="40%"/> <img src="./week1/jan05/jan05_04.png" width="40%"/>
