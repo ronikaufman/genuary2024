@@ -10,6 +10,7 @@ For this 2024 edition, I gave myself extra constraints:
 |Mo|Tu|We|Th|Fr|Sa|Su|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<img src="./week1/jan01/jan01_01.png" width="100%"/>|<img src="./week1/jan02/jan02_01.png" width="100%"/>|<img src="./week1/jan03/jan03_01.png" width="100%"/>|<img src="./week1/jan04/jan04_01.png" width="100%"/>|<img src="./week1/jan05/jan05_01.png" width="100%"/>|<img src="./week1/jan06/jan06_01.png" width="100%"/>|<img src="./week1/jan07/jan07_01.png" width="100%"/>|
+|<img src="./week1/jan08/jan08_01.png" width="100%"/>|||||||
 
 ### JAN. 1
 > Particles, lots of them.
@@ -45,3 +46,8 @@ For this 2024 edition, I gave myself extra constraints:
 > Progress bar / indicator / loading animation.
 
 <img src="./week1/jan07/jan07_01.png" width="40%"/> <img src="./week1/jan07/jan07_02.png" width="40%"/> <img src="./week1/jan07/jan07_03.png" width="40%"/> <img src="./week1/jan07/jan07_04.png" width="40%"/>
+
+### JAN. 8
+> Chaotic system.
+
+<img src="./week1/jan08/jan08_01.png" width="40%"/> <img src="./week1/jan08/jan08_02.png" width="40%"/> <img src="./week1/jan08/jan08_03.png" width="40%"/> <img src="./week1/jan08/jan08_04.png" width="40%"/>
