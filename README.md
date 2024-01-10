@@ -10,7 +10,7 @@ For this 2024 edition, I gave myself extra constraints:
 |Mo|Tu|We|Th|Fr|Sa|Su|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<img src="./week1/jan01/jan01_01.png" width="100%"/>|<img src="./week1/jan02/jan02_01.png" width="100%"/>|<img src="./week1/jan03/jan03_01.png" width="100%"/>|<img src="./week1/jan04/jan04_01.png" width="100%"/>|<img src="./week1/jan05/jan05_01.png" width="100%"/>|<img src="./week1/jan06/jan06_01.png" width="100%"/>|<img src="./week1/jan07/jan07_01.png" width="100%"/>|
-|<img src="./week2/jan08/jan08_01.png" width="100%"/>|<img src="./week2/jan09/jan09_01.png" width="100%"/>||||||
+|<img src="./week2/jan08/jan08_01.png" width="100%"/>|<img src="./week2/jan09/jan09_01.png" width="100%"/>|<img src="./week2/jan10/jan10_01.png" width="100%"/>|||||
 
 ### JAN. 1
 > Particles, lots of them.
@@ -56,6 +56,11 @@ For this 2024 edition, I gave myself extra constraints:
 > ASCII.
 
 <img src="./week2/jan09/jan09_01.png" width="40%"/> <img src="./week2/jan09/jan09_02.png" width="40%"/> <img src="./week2/jan09/jan09_03.png" width="40%"/> <img src="./week2/jan09/jan09_04.png" width="40%"/>
+
+### JAN. 10
+> Hexagonal.
+
+<img src="./week2/jan10/jan10_01.png" width="40%"/> <img src="./week2/jan10/jan10_02.png" width="40%"/> <img src="./week2/jan10/jan10_03.png" width="40%"/> <img src="./week2/jan10/jan10_04.png" width="40%"/>
 
 
 ## Credits
