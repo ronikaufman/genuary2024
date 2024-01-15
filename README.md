@@ -92,4 +92,4 @@ For this 2024 edition, I gave myself extra constraints:
 ## Credits
 
 - JavaScript libraries: [p5.js](https://p5js.org), [Matter.js](https://brm.io/matter-js/)
-- Fonts: Jgs by Adel Faure (distributed by [velvetyne.fr](https://velvetyne.fr/)), Solway by Mariya Lish
+- Fonts: [Jgs](https://velvetyne.fr/fonts/jgs-font/) by Adel Faure (distributed by Velvetine), [Solway](https://fonts.google.com/specimen/Solway?preview.text=roni%20kaufman&stroke=Serif) by Mariya Lish (distributed by Google Fonts)
