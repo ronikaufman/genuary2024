@@ -25,8 +25,6 @@ function setup() {
 	createConnections();
     let fillingTypes = ["b", "w", "p", "b*", "w*", "p*"];
     DSatur("filling", fillingTypes);
-
-    console.log(rectangles)
 }
 
 function draw() {
@@ -34,28 +32,6 @@ function draw() {
         fill(random(255));
         drawRectangle(recta);
     }
-
-    /*
-    stroke(0);
-    let r = 0, theta = 0;
-    let nSteps = 1000;
-    let rGap = 10;
-    let rStep = 2*rGap/nSteps;
-    let thetaStep = TAU/nSteps;
-    beginShape();
-    while (r < width*sqrt(2)) {
-        let t = sq(r);
-        let rOff = (sin(4*t+5) + sin(10*t+4))*rGap/2;
-        rOff = (sin(3*t+5)/3 + sin(5*t+2)/5 + sin(8*t+4)/8 + sin(13*t+3)/13)*rGap;
-        vertex(width/2 + (r+rOff)*cos(theta), height/2 + (r+rOff)*sin(theta));
-
-        theta += thetaStep;
-        r += rStep;
-    }
-    endShape();
-
-    circle(width/2, rGap/2, rGap);
-    */
 }
 
 // creating the composition
