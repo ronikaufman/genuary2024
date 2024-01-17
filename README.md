@@ -11,7 +11,7 @@ For this 2024 edition, I gave myself extra constraints:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<img src="./week1/jan01/jan01_01.png" width="100%"/>|<img src="./week1/jan02/jan02_01.png" width="100%"/>|<img src="./week1/jan03/jan03_01.png" width="100%"/>|<img src="./week1/jan04/jan04_01.png" width="100%"/>|<img src="./week1/jan05/jan05_01.png" width="100%"/>|<img src="./week1/jan06/jan06_01.png" width="100%"/>|<img src="./week1/jan07/jan07_01.png" width="100%"/>|
 |<img src="./week2/jan08/jan08_01.png" width="100%"/>|<img src="./week2/jan09/jan09_01.png" width="100%"/>|<img src="./week2/jan10/jan10_01.png" width="100%"/>|<img src="./week2/jan11/jan11_01.png" width="100%"/>|<img src="./week2/jan12/jan12_01.png" width="100%"/>|<img src="./week2/jan13/jan13_01.png" width="100%"/>|<img src="./week2/jan14/jan14_01.png" width="100%"/>|
-|<img src="./week3/jan15/jan15_01.png" width="100%"/>|<img src="./week3/jan16/jan16_01.png" width="100%"/>||||||
+|<img src="./week3/jan15/jan15_01.png" width="100%"/>|<img src="./week3/jan16/jan16_01.png" width="100%"/>|<img src="./week3/jan17/jan17_01.png" width="100%"/>|||||
 
 ### JAN. 1
 > Particles, lots of them.
@@ -93,6 +93,10 @@ For this 2024 edition, I gave myself extra constraints:
 
 <img src="./week3/jan16/jan16_01.png" width="40%"/> <img src="./week3/jan16/jan16_02.png" width="40%"/> <img src="./week3/jan16/jan16_03.png" width="40%"/> <img src="./week3/jan16/jan16_04.png" width="40%"/>
 
+### JAN. 17
+> Inspired by Islamic art.
+
+<img src="./week3/jan17/jan17_01.png" width="40%"/> <img src="./week3/jan17/jan17_02.png" width="40%"/> <img src="./week3/jan17/jan17_03.png" width="40%"/> <img src="./week3/jan17/jan17_04.png" width="40%"/>
 
 ## Credits
 
