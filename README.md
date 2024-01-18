@@ -1,6 +1,6 @@
 # Genuary 2024
 
-[Genuary](genuary.art) is a month of daily generative art prompts, happening every January.
+[Genuary](https://genuary.art/) is a month of daily generative art prompts, happening every January.
 
 For this 2024 edition, I gave myself extra constraints: 
 - square format, the result is a still image (not an animation);
