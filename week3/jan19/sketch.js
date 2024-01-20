@@ -5,6 +5,9 @@ By Roni Kaufman
 https://ronikaufman.github.io
 */
 
+// Code adapted from Daniel Shiffman 
+// https://thecodingtrain.com/CodingChallenges/124-flocking-boids.html
+
 let boids = [];
 const MAX_SPEED = 4;
 const MAX_FORCE = 0.1;
