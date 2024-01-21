@@ -11,7 +11,7 @@ For this 2024 edition, I gave myself extra constraints:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<img src="./week1/jan01/jan01_01.png" width="100%"/>|<img src="./week1/jan02/jan02_01.png" width="100%"/>|<img src="./week1/jan03/jan03_01.png" width="100%"/>|<img src="./week1/jan04/jan04_01.png" width="100%"/>|<img src="./week1/jan05/jan05_01.png" width="100%"/>|<img src="./week1/jan06/jan06_01.png" width="100%"/>|<img src="./week1/jan07/jan07_01.png" width="100%"/>|
 |<img src="./week2/jan08/jan08_01.png" width="100%"/>|<img src="./week2/jan09/jan09_01.png" width="100%"/>|<img src="./week2/jan10/jan10_01.png" width="100%"/>|<img src="./week2/jan11/jan11_01.png" width="100%"/>|<img src="./week2/jan12/jan12_01.png" width="100%"/>|<img src="./week2/jan13/jan13_01.png" width="100%"/>|<img src="./week2/jan14/jan14_01.png" width="100%"/>|
-|<img src="./week3/jan15/jan15_01.png" width="100%"/>|<img src="./week3/jan16/jan16_01.png" width="100%"/>|<img src="./week3/jan17/jan17_01.png" width="100%"/>|<img src="./week3/jan18/jan18_01.png" width="100%"/>|<img src="./week3/jan19/jan19_01.png" width="100%"/>|<img src="./week3/jan20/jan20_01.png" width="100%"/>||
+|<img src="./week3/jan15/jan15_01.png" width="100%"/>|<img src="./week3/jan16/jan16_01.png" width="100%"/>|<img src="./week3/jan17/jan17_01.png" width="100%"/>|<img src="./week3/jan18/jan18_01.png" width="100%"/>|<img src="./week3/jan19/jan19_01.png" width="100%"/>|<img src="./week3/jan20/jan20_01.png" width="100%"/>|<img src="./week3/jan21/jan21_01.png" width="100%"/>|
 
 ### JAN. 1
 > Particles, lots of them.
@@ -113,8 +113,13 @@ For this 2024 edition, I gave myself extra constraints:
 
 <img src="./week3/jan20/jan20_01.png" width="40%"/> <img src="./week3/jan20/jan20_02.png" width="40%"/> <img src="./week3/jan20/jan20_03.png" width="40%"/> <img src="./week3/jan20/jan20_04.png" width="40%"/>
 
+### JAN. 21
+> Use a library that you haven’t used before.
+
+<img src="./week3/jan21/jan21_01.png" width="40%"/> <img src="./week3/jan21/jan21_02.png" width="40%"/> <img src="./week3/jan21/jan21_03.png" width="40%"/> <img src="./week3/jan21/jan21_04.png" width="40%"/>
+
 
 ## Credits
 
-- JavaScript libraries: [p5.js](https://p5js.org), [Matter.js](https://brm.io/matter-js/)
+- JavaScript libraries: [p5.js](https://p5js.org), [Matter.js](https://brm.io/matter-js/), [Spectral.js](https://github.com/rvanwijnen/spectral.js)
 - Fonts: [Jgs](https://velvetyne.fr/fonts/jgs-font/) by Adel Faure (Velvetine), [Solway](https://fonts.google.com/specimen/Solway) by Mariya Lish (Google Fonts), [Blackout](https://www.theleagueofmoveabletype.com/blackout) by Tyler Finck (The League of Moveable Type)
